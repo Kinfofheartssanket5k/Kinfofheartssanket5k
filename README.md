@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kinfofheartssanket5k
+- 👋 Hi, I’m @Kingofheartssanket5k
 - 👀 I’m interested in sql
 - 🌱 I’m currently learning computer engineering 
 - 💞️ I’m looking to collaborate on internships 
