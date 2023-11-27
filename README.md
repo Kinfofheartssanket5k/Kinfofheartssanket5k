@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kingofheartssanket5k
-- 👀 I’m interested in sql
+- 👋 Hi, I’m @sanketkalchide
+- 👀 I’m interested in Web Devlopment and Seo
 - 🌱 I’m currently learning computer engineering 
-- 💞️ I’m looking to collaborate on internships 
+- 💞️ I’m looking For Job 
 - 📫 How to reach me sanket2420sk@gmail.com
 
 <!---
